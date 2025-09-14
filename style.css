@@ -1,9 +1,9 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: black;
+  background-color: yellow;
   margin: 0;
   padding: 0;
-  color: yellow;
+  color: black;
 }
 
 header {
@@ -34,5 +34,6 @@ footer {
   width: 100%;
 
 }
+
 
 
