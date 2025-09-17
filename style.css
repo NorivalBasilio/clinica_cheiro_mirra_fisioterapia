@@ -1,13 +1,13 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: #EACF5B;
+  background-color: #E85743;
   margin: 3px;
   padding: 3px;
   color: black;
 }
 
 header {
-  background-color: #D031E8;
+  background-color: #80EA47;
   color: black;
   padding: 20px;
   text-align: center;
@@ -25,7 +25,7 @@ main {
 }
 
 footer {
-  background-color: #EACF5B;
+  background-color: #80EA47;
   color: black;
   text-align: center;
   padding: 10px;
@@ -34,6 +34,7 @@ footer {
   width: 100%;
 
 }
+
 
 
 
